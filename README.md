@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white">
 
-
 ## 시연 과정
 
 ---
@@ -49,6 +48,8 @@
 ### backend.py
 - FastAPI를 사용한 Backend API가 작성되어 있습니다. 
 - FastAPI 서버를 가동할 시 해당 파일을 로드합니다.
+- Swagger를 확인해보면 아래와 같은 API의 엔드포인트 목록을 확인할 수 있습니다.
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPN9Umsgu0rwJkFqKga_hGvMxepIceAi9T3b9Ar2rc44c_yFaIlEvx03fWtiO0TXWc8FRpYv_8qjQrRWXxVQPCaHS_UavcWWPGIOqkzDcYyrFxPg98GwTRGSjNWfukjKjFKg7opQDhhAs6Zt_X5MRYI=w594-h188-s-no-gm?authuser=0" width="500" alt="doc">
 
 ### generate_short_key.py
 - 해당 서비스의 키 생성 알고리즘 로직이 작성되어 있습니다.
