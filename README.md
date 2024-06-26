@@ -1,4 +1,4 @@
-## 과제: URL 단축 서비스 구현
+## URL 단축 서비스 구현
 
 ### Tech
 <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
